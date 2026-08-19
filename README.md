@@ -20,16 +20,6 @@ The work focuses on applying software engineering principles and methodologies t
 
 ---
 
-## Author
-
-**Shreelakshmi G Bhat**
-**SRN:** PES2UG24CS478
-**Section:** H
-**Course:** Software Engineering
-**Course Code:** UE24CS341A
-
----
-
 ## Institution
 
 **PES University**
