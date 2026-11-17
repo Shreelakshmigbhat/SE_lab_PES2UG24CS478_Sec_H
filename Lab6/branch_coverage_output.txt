@@ -1,0 +1,9 @@
+$ coverage run --branch -m pytest BranchCoverageTest_password_policy.py
+........................                                                 [100%]
+24 passed in 0.10s
+$ coverage report -m --include=password_policy.py
+Name                 Stmts   Miss Branch BrPart  Cover   Missing
+----------------------------------------------------------------
+password_policy.py      47      0     36      0   100%
+----------------------------------------------------------------
+TOTAL                   47      0     36      0   100%
